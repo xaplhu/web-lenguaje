@@ -1,0 +1,15 @@
+.navbar{
+    background-color: #68A1B4;
+}
+.navbar, a{
+    text-decoration: none;
+    color: black;
+    font-size: 10px;
+    padding: 0 30px; 
+}
+.navbar, a:hover{
+    text-decoration: none;
+    color: white;
+    font-size: 10px;
+    padding: 0 30px; 
+}
