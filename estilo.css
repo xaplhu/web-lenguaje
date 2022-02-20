@@ -1,15 +1,78 @@
+/* BARRA DE NAVEGACIÓN */
 .navbar{
     background-color: #68A1B4;
 }
-.navbar, a{
+.navbar-item > .logo{
+    padding-left: 30px; 
+}
+.navbar-brand > .container > a{
     text-decoration: none;
     color: black;
     font-size: 10px;
-    padding: 0 30px; 
+    padding: 0 20px; 
 }
-.navbar, a:hover{
+.navbar-brand > .container > a:hover{
     text-decoration: none;
     color: white;
     font-size: 10px;
-    padding: 0 30px; 
+    padding: 0 20px; 
+    transition: 0.4s;
+}
+
+/* BANNER FOTO */
+.has-bg-img { 
+    padding: 0 50px;
+    background: url('./images/foto\ banner.png'); 
+    background-size:cover;
+    background-position: 10% 45%;
+    
+}
+.hero .container h1.title, h2.subtitle, h3.subtitle{
+    color:black;
+    opacity: 1;
+}
+
+/* BANNER MISION EMPRESA */
+hr.solid {
+    border-top: 3px solid #68A1B4;
+    margin-top: -20px;
+    margin-bottom: 10px;
+    width: 6%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+section.container h3.title{
+    color:black;
+    margin-left:100px;
+    margin-right:100px;
+}
+
+/* SECCION COLUMNAS */
+.columns img{
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+.has-text-centered h3{
+    color:black;
+}
+.has-text-centered h3:hover{
+    color:#68A1B4;
+    transition: 0.4s;
+}
+
+/* SECCION COLUMNAS */
+.has-text-white{
+    background-color: rgb(54, 102, 138);
+    color:white;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius: 5px;
+    width: 20%;
+    height: 125%;
+}
+.has-text-white:hover{
+    background-color: #68A1B4;
+   
 }
