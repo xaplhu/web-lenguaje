@@ -1,0 +1,25 @@
+/* SECCION COLUMNAS */
+.contenido_pg_principal{
+    background-color: #68a1b475;
+}
+.columns .fotoscolumna{
+    width: 125px;
+    height: 125px;
+    overflow: hidden;
+    border-radius: 50%;
+}
+.has-text-centered h3{
+    color:black;
+}
+.has-text-centered h3:hover{
+    color:#68A1B4;
+    transition: 0.4s;
+}
+.contenido_pg_principal .button{
+    color:black;
+    background: rgb(231, 228, 228);
+}
+.contenido_pg_principal .button:hover{
+    color:#36668a;
+    transition: all 0.4s;
+}

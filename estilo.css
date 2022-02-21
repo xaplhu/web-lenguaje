@@ -1,19 +1,7 @@
-/* SECCION COLUMNAS */
-.columns .fotoscolumna{
-    width: 100px;
-    height: 100px;
-    overflow: hidden;
-    border-radius: 50%;
+.footer .logo{
+    
+    width: 200px;
 }
-.has-text-centered h3{
-    color:black;
-}
-.has-text-centered h3:hover{
-    color:#68A1B4;
-    transition: 0.4s;
-}
-
-/* SECCION COLUMNAS */
 .has-text-white{
     background-color: rgb(54, 102, 138);
     color:white;
