@@ -1,0 +1,20 @@
+.message-body .precio1{
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center; 
+}
+
+.message-body p{
+    font-size: 10px;
+    font-weight: lighter;
+    text-align: center;  
+}
+hr.solid2{
+    border-top: 2px solid hsl(204, 71%, 39%);  
+    margin-top: 5px;
+    margin-bottom: -8px;
+    width: 45%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
