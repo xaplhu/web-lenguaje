@@ -39,7 +39,10 @@
   
   h1 {
     font-size: 2em;
-    margin: 0.67em 0;
+    margin-left: 100px;
+  }
+  p {
+    margin-top: 20%;
   }
   
   /* Grouping content
