@@ -8,13 +8,13 @@
 .navbar-brand > .container > a{
     text-decoration: none;
     color: black;
-    font-size: 10px;
+    font-size: 15px;
     padding: 0 20px; 
 }
 .navbar-brand > .container > a:hover{
     text-decoration: none;
     color: white;
-    font-size: 10px;
+    font-size: 15px;
     padding: 0 20px; 
     transition: 0.4s;
 }
@@ -45,6 +45,7 @@ section.container h3.title{
     color:black;
     margin-left:100px;
     margin-right:100px;
+    font-size: 18px;
 }
 
 /* SECCION COLUMNAS */
