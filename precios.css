@@ -4,11 +4,16 @@
     text-align: center; 
 }
 
+.message-header p{
+    text-align: center; 
+    margin-left: 8px; 
+}
 .message-body p{
     font-size: 10px;
     font-weight: lighter;
     text-align: center;  
 }
+
 hr.solid2{
     border-top: 2px solid hsl(204, 71%, 39%);  
     margin-top: 5px;
@@ -18,3 +23,6 @@ hr.solid2{
     margin-right: auto;
 }
 
+div.box {
+    font-size: 10px;
+}
